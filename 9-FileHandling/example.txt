@@ -1,0 +1,6 @@
+This is a new line added to the file.
+This file is created using Python.
+Hey this is atharv awle I am learning AI ML And also Data Science 
+first 
+second 
+third
